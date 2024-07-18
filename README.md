@@ -33,7 +33,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,git,github,postman,jira,firebase" />
+    <img src="https://skillicons.dev/icons?i=fastapi,git,github,postman,jiraboard,firebase" />
   </a>
 </p>
 
