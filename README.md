@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgirl-coding&psig=AOvVaw0YHjYMdNxkuqRHk_gfgFk8&ust=1721378163375000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjG7siXsIcDFQAAAAAdAAAAABAJ" alt="coding">
+  <img width="400" src="https://www.deviantart.com/midjourneydev/art/developer-midjourney-1061578886" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Tejal Wani</h1>
