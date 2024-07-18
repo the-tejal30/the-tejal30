@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://www.deviantart.com/midjourneydev/art/developer-midjourney-1061578886" alt="coding">
+  <img width="400" src="https://res.cloudinary.com/drkygeaeh/image/upload/v1721292177/developer_btekjd.jpg" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Tejal Wani</h1>
