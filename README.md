@@ -28,6 +28,7 @@
 ### 🏆 Achievements
 <div align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="400" alt="GitHub Profile Views">
+  <p>Pull Shark</p>
 </div>
 
 <p align="left">
