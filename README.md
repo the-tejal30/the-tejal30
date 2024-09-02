@@ -54,4 +54,5 @@
 ### 📬 Reach me out:
 <p align="left">
   <a href="https://www.linkedin.com/in/tejalwani30/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=tejalwani2000@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png"/></a>
 </p>
