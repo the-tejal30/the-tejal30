@@ -38,7 +38,7 @@
 ### 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,javascript,bootstrap,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,javascript,bootstrap,react,nodejs,tailwind,antd,redux" />
   </a>
 </p>
 <p align="left">
