@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>Frontend Developer | React.js, Next.js, TypeScript, HTML, CSS, JavaScript</h3>
-  <p>Building responsive and high-performance web applications</p>
+  <p>Building responsive and high performance web applications</p>
 </div>
 
 <p align="left">
