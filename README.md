@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Tejal Wani</h1>
 
-<h3 align="center">Frontend Developer | React.js, Next.js, TypeScript, HTML, CSS, JavaScript | Building responsive and high performance web applications</h3>
+<div align="center">
+  <h3>Frontend Developer | React.js, Next.js, TypeScript, HTML, CSS, JavaScript</h3>
+  <p>Building responsive and high-performance web applications</p>
+</div>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
