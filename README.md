@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tejal Wani</h1>
 
-<h3 align="center">Passionate Full Stack Web Developer with a Focus on Frontend Technologies</h3>
+<h3 align="center">Frontend Developer | React.js, Next.js, TypeScript, HTML, CSS, JavaScript | Building responsive and high performance web applications</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -38,12 +38,12 @@
 ### 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,html,css,javascript,bootstrap,react,nodejs,tailwind,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind,redux,nextjs,typescript,context" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,git,github,postman,firebase" />
+    <img src="https://skillicons.dev/icons?i=fastapi,git,github,postman,firebase,vscode" />
   </a>
 </p>
 
