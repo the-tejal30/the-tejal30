@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tejal Wani</h1>
 
 <div align="center">
-  <h3>Frontend Developer | React.js, Next.js, TypeScript, HTML, CSS, JavaScript</h3>
+  <h3>Frontend Developer | React.js, Next.js, TypeScript, JavaScript, Redux, REST API's, Tailwind CSS </h3>
   <p>Building responsive and high performance web applications</p>
 </div>
 
